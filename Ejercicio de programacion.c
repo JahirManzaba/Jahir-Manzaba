@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int inicio, fin, incremento;
     printf("Ingrese el numero inicial: ");
